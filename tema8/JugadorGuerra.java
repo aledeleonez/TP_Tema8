@@ -1,3 +1,5 @@
+package tema8;
+
 public class JugadorGuerra {
     public int numFichas;
     public String nombre;
